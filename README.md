@@ -3,12 +3,12 @@ Implement Neural Style Transfer from scratch using Deep Learning.
 
 Content Image:
 
-![](output_udnie.jpg)
+![](content_nst.jpg)
 
 Style Image:
 
-![](output_udnie.jpg)
+![](style_nst.jpg)
 
 Stylized Image:
 
-![](output_udnie.jpg)
+![](stylized.png)
